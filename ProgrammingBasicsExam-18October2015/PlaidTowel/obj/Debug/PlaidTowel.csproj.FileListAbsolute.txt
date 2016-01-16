@@ -1,0 +1,5 @@
+E:\Softuni\ProgrammingBasicExamPractice\ProgrammingBasicExamPractice\ProgrammingBasicsExam-18October2015\PlaidTowel\bin\Debug\PlaidTowel.exe.config
+E:\Softuni\ProgrammingBasicExamPractice\ProgrammingBasicExamPractice\ProgrammingBasicsExam-18October2015\PlaidTowel\bin\Debug\PlaidTowel.exe
+E:\Softuni\ProgrammingBasicExamPractice\ProgrammingBasicExamPractice\ProgrammingBasicsExam-18October2015\PlaidTowel\bin\Debug\PlaidTowel.pdb
+E:\Softuni\ProgrammingBasicExamPractice\ProgrammingBasicExamPractice\ProgrammingBasicsExam-18October2015\PlaidTowel\obj\Debug\PlaidTowel.exe
+E:\Softuni\ProgrammingBasicExamPractice\ProgrammingBasicExamPractice\ProgrammingBasicsExam-18October2015\PlaidTowel\obj\Debug\PlaidTowel.pdb
